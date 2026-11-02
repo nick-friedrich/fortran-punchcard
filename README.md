@@ -6,6 +6,8 @@ red stamp onto the card. There's no JavaScript: every click is a plain form post
 
 ![Punch Card Habits running in Safari, with demo cards](docs/screenshot.png)
 
+📺 Video walkthrough: https://youtu.be/IUy4FoCnTQo
+
 ## Run it
 
 ```bash
